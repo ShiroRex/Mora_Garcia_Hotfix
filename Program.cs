@@ -3,7 +3,7 @@
 Personaje miPersonaje = new Personaje
 {
     Nombre = "Rey_Caribeño",
-    Vida = 100,
+    Vida = -100,
     Ataque = 45,
     Defensa = 20,
     Nivel = 1
